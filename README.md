@@ -4,7 +4,7 @@
 
 > **Es: En este repositorio encontrarás las actualizaciones más importantes que ha tenido ECMAScript, y su contenido más importante en cada versión de ECMA, desde 2015 hasta 2021.**
 
-_All code is in order, in each version :D_
+_All code is in order, in each version :D_ <br>
 _Todo el código está ordenado, en cada versión_
 
 - [🐦Twitter: Alvarenga144](https://twitter.com/Alvarenga144)
