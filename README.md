@@ -1,6 +1,10 @@
-**En este repositorio, están parte de las más importantes actualizaciones que sufrió 
-JavaScript desde 2016, en su versión ECMAScript 6.**
+#ECMAScript Versions, ES6 to ES13 ✅🔥
 
-Todo el código ordenado por cada versión.
+> **En: In this repository you will find the most important updates that ECMAScript has had, and its most important content in each version of ECMA, from 2015 to 2021**
 
-:D
+> **Es: En este repositorio encontrarás las actualizaciones más importantes que ha tenido ECMAScript, y su contenido más importante en cada versión de ECMA, desde 2015 hasta 2021.**
+
+_All code is in order, in each version :D_
+_Todo el código está ordenado, en cada versión_
+
+- [🐦Twitter: Alvarenga144](https://twitter.com/Alvarenga144)
