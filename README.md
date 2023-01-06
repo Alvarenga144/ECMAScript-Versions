@@ -1,4 +1,4 @@
-#ECMAScript Versions, ES6 to ES13 ✅🔥
+# ECMAScript Versions, ES6 to ES13 ✅🔥
 
 > **En: In this repository you will find the most important updates that ECMAScript has had, and its most important content in each version of ECMA, from 2015 to 2021**
 
